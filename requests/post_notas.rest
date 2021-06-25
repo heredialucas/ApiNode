@@ -1,0 +1,7 @@
+POST http://localhost:8000/api/notas
+Content-Type: application/json
+
+{
+    "nombre": "Lucas",
+    "texto": "Prueba de texto"
+}
